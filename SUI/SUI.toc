@@ -1,0 +1,18 @@
+## Interface: 100002
+## Author: Syiana - and SUI Remodel/Variant. features by Beardedrasta.
+## Version: 1.0.0
+## Title: |cffff0000Ras|r|cffffcc00U|r|cFF32CD32I|r
+## SavedVariables: SUIDB
+
+## LIBS
+Libs\Load.xml
+## MEDIA
+Media\Load.xml
+## CORE
+Core\Load.xml
+## DATA
+Data\Load.xml
+## MODULES
+Modules\Load.xml
+## CONFIG
+Config\Load.xml

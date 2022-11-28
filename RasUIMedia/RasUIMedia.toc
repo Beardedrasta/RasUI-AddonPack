@@ -1,0 +1,6 @@
+## Interface: 90002
+## Title: RasUI|cffff6060M|cFF90EE90e|cFFFFFF00d|cffff6060i|cFF90EE90a
+## Author: Beardedrasta, based on addons by Fishingrod, Aftermathhyo, Aftermathhqt, Aftermathhqq, Aftermathhz & Afterdudu @ Sylvanas EU (Game92 @ Wowinterface), Treeston, Touchy
+## Notes: Adds media, fonts, Maque skin
+
+RasUIMasque.lua
