@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-$${\color{orange} If \space you \space want \space to \space use \space the \space XP \space Tracker \space your \space must \space enable \space it \space in \space the \space config \space options \space interface}$$
+💥$${\color{orange} If \space you \space want \space to \space use \space the \space XP \space Tracker \space your \space must \space enable \space it \space in \space the \space config \space options \space interface}$$:boom:
 
 <br>
 
@@ -124,4 +124,4 @@ Font Size (only effects status bars font not tracker panel font)
 <br>
  
 ### $${\color{orange}If \space you \space have \space any \space question \space or \space ideas \space contact \space me \space @}$$ 
-<p align="center"> :boom: Rasta#0818 :boom: </p>
+<p align="center"> :boom: rasta0818 :boom: </p>
