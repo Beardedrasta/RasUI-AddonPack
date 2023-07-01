@@ -20,9 +20,6 @@ $${\color{orange} If \space you \space want \space to \space use \space the \spa
 - [Special Status](#special-status)
 - [Font Changer](#font-changer)
 
-
-![logo](https://lasu.edu.ng/ispadems/assets/img/line2.png)
-
 <br>
 <br>
 
@@ -125,10 +122,6 @@ Font Size (only effects status bars font not tracker panel font)
 
 <br>
 <br>
-
-![logo](https://lasu.edu.ng/ispadems/assets/img/line2.png)
  
 ### $${\color{orange}If \space you \space have \space any \space question \space or \space ideas \space contact \space me \space @}$$ 
 <p align="center"> :boom: Rasta#0818 :boom: </p>
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://i.postimg.cc/dDvWG8Tk/easter-bunny-beer-funny-michael-s.jpg' border='0' alt='easter-bunny-beer-funny-michael-s'/>](https://www.paypal.com/donate/?business=GPJTVK2WVKAQS&no_recurring=0&item_name=I+work+very+long+hours+doing+side+scripts+outside+of+my+40%2B+hour+a+week+job.+Bills+pile+quick+so+does+stess%2C+Toss+me+a+beer+%3A%29&currency_code=USD) 
